@@ -57,7 +57,7 @@ Sucess message display.
 Error message display.
 ```
 
-4.Run Speak command with Argument : Mike Speak "Hey I am here.Overwrite."
+4.Run Speak command with Argument : Mic Speak "Hey I am here.Overwrite."
 
 Input : 
 ```
