@@ -1,13 +1,19 @@
 # Text-Speak-demo using symfony console component 
 Write your Text, Text Will Speak it 
 
-1.Update composer
+1.Clone repository
+
+```
+git clone https://github.com/erakashpatel/Text-Speak-demo.git
+```
+
+2.Update composer
 
 ```
 composer update
 ```
 
-2.Run php demo 
+3.Run php demo 
 Input : 
 ```
 ./demo 
@@ -39,7 +45,7 @@ Available commands:
 
 ```
 
-3.Run Speak command : Mic Speak "Hello World." default.
+4.Run Speak command : Mic Speak "Hello World." default.
 
 Input : 
 ```
@@ -57,7 +63,7 @@ Sucess message display.
 Error message display.
 ```
 
-4.Run Speak command with Argument : Mic Speak "Hey I am here.Overwrite."
+5.Run Speak command with Argument : Mic Speak "Hey I am here.Overwrite."
 
 Input : 
 ```
