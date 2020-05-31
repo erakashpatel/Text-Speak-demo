@@ -42,7 +42,7 @@ Available commands:
 ```
 OR 
 ```
-php ./demo
+php ./demo speak
 ```
 Output : Mike Speak "Hey I am here.Overwrite." 
 ```
