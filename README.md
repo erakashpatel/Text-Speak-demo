@@ -2,11 +2,13 @@
 Write your Text, Text Will Speak it 
 
 1.Update composer
+
 ```
 composer update
 ```
 
 2.Run php demo 
+Input : 
 ```
 ./demo 
 ```
@@ -36,21 +38,41 @@ Available commands:
   speak  Speak a message.
 
 ```
+
 3.Run Speak command : Mic Speak "Hello World." default.
+
+Input : 
 ```
 ./demo speak
 ```
 OR 
 ```
 php ./demo speak
+
 ```
-Output : Mike Speak "Hey I am here.Overwrite." 
+Output : 
 ```
 Simple message display.
 Sucess message display.
 Error message display.
 ```
-./demo Speak "Hey I am here.Overwrite."
+
+4.Run Speak command with Argument : Mike Speak "Hey I am here.Overwrite."
+Input : 
+```
+./demo speak "Hey I am here.Overwrite."
+```
+OR 
+```
+php ./demo speak "Hey I am here.Overwrite."
+```
+
+Output : 
+```
+Simple message display.
+Sucess message display.
+Error message display.
+```
 
 
 Thanks
